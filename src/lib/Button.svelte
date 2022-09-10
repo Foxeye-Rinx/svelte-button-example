@@ -15,7 +15,7 @@
 	.btn:hover {
 		border-width: 1px;
 		border-radius: 0.375rem;
-		border-color: rgb(209, 213, 219);
-		background-color: rgb(243 244 246 / 1);
+		border-color: rgb(164, 164, 164);
+		background-color: rgb(238 238 238);
 	}
 </style>
